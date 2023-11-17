@@ -1,0 +1,6 @@
+C:\Users\Brandon\Desktop\all visual studio saves\Exam2\Exam2\obj\Debug\Exam2.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\all visual studio saves\Exam2\Exam2\obj\Debug\Exam2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brandon\Desktop\all visual studio saves\Exam2\Exam2\obj\Debug\CIS200E2P3.Form1.resources
+C:\Users\Brandon\Desktop\all visual studio saves\Exam2\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\Brandon\Desktop\all visual studio saves\Exam2\Exam2\obj\Debug\Exam2.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\all visual studio saves\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
